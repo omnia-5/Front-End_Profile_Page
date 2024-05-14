@@ -14,7 +14,7 @@ html{
     margin-left: auto;
     border-top-right-radius: 50px ;
     border-top-left-radius: 50px;
-    background-image: url(/images/BackGround.jpg);
+    background-image: url("../images/BackGround.jpg");
     background-repeat: no-repeat;
     background-size: contain;
 }
